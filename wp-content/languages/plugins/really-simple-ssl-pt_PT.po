@@ -1,0 +1,321 @@
+# Translation of Plugins - Really Simple SSL - Stable (latest release) in Portuguese (Portugal)
+# This file is distributed under the same license as the Plugins - Really Simple SSL - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-02-17 12:55:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: pt\n"
+"Project-Id-Version: Plugins - Really Simple SSL - Stable (latest release)\n"
+
+#. Author of the plugin
+msgid "Really Simple Plugins"
+msgstr "Really Simple Plugins"
+
+#: grid/templates/support.php:28
+msgid "Really Simple SSL Pro"
+msgstr "Really Simple SSL Pro"
+
+#: class-admin.php:2455
+msgid "Hi, Really Simple SSL has kept your site secure for some time now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Olá, o Really Simple SSL manteve o seu site protegido por algum tempo, incrível! Se tiver um momento, considere deixar um comentário no WordPress.org para divulgar. Agradecemos imensamente! Se tiver alguma dúvida ou comentário, deixe-nos uma %smensagem%s."
+
+#: class-admin.php:506
+msgid "Images, stylesheets or scripts from a domain without an SSL certificate: remove them or move to your own server"
+msgstr "Imagens, folhas de estilo ou scripts de um domínio sem um certificado SSL: remova-os ou mova-os para o seu próprio servidor"
+
+#: class-admin.php:522
+msgid "Check out Really Simple SSL Pro"
+msgstr "Conheça o Really Simple SSL Pro"
+
+#: class-admin.php:2465
+msgid "Don't show again"
+msgstr "Não voltar a mostrar"
+
+#: class-admin.php:2944
+msgid "The mixed content fixer could not be detected due to a cURL error: %s. cURL errors are often caused by an outdated version of PHP or cURL and don't affect the front-end of your site. Contact your hosting provider for a fix."
+msgstr "O reparador de conteúdo misto não foi detectado devido a um erro de cURL: %s. Erros de cURL são frequentemente causados por versões desactualizadas do PHP ou cURL e não afectam a interface do seu site. Contacte o seu serviço de alojamento para uma correcção."
+
+#: class-admin.php:3858
+msgid "Dismiss all Really Simple SSL notices"
+msgstr "Descartar todos os avisos do Really Simple SSL"
+
+#: class-site-health.php:147
+msgid "301 .htaccess redirect is not enabled."
+msgstr "Redireccionamento 301 no .htaccess não está activo."
+
+#: class-site-health.php:104
+msgid "You have set a 301 redirect to SSL. This is important for SEO purposes"
+msgstr "Definiu um redireccionamento 301 para SSL. Isso é importante para fins de SEO"
+
+#: class-site-health.php:96
+msgid "301 SSL redirect enabled"
+msgstr "Redireccionamento 301 para SSL activo"
+
+#: class-admin.php:2973
+msgid "301 redirect to https set: .htaccess redirect."
+msgstr "Redirecionamento 301 para https definido: Redirecionamento pelo .htaccess."
+
+#: class-admin.php:3042
+msgid "HTTP Strict Transport Security is not enabled %s(Read more)%s."
+msgstr "HTTP Strict Transport Security não está activado %s(premium)%s"
+
+#: class-multisite.php:1005
+msgid "If the conversion does not proceed after a few minutes, click %shere%s to force the conversion process."
+msgstr "Se a conversão não proceder após alguns minutos, clique %saqui%s para forçar o processo de conversão."
+
+#: class-admin.php:2805
+msgid "The 'force-deactivate.php' file has to be renamed to .txt. Otherwise your ssl can be deactivated by anyone on the internet."
+msgstr "O ficheiro 'force-deactivate.php' precisa de ser renomeado para .txt. Caso contrário, a sua SSL pode ser desactivada por qualquer pessoa na internet."
+
+#: multisite-cron.php:11
+msgid "Once every minute"
+msgstr "Uma vez a cada minuto"
+
+#: class-admin.php:2463
+msgid "Leave a review"
+msgstr "Deixe uma avaliação"
+
+#: class-admin.php:2464
+msgid "Maybe later"
+msgstr "Talvez mais tarde"
+
+#: class-multisite.php:1003
+msgid "Conversion of websites %s percent complete."
+msgstr "Conversão de sites %s por cento concluída."
+
+#: class-admin.php:2457
+msgid "Hi, Really Simple SSL has kept your site secure for a month now, awesome! If you have a moment, please consider leaving a review on WordPress.org to spread the word. We greatly appreciate it! If you have any questions or feedback, leave us a %smessage%s."
+msgstr "Olá, o Really Simple SSL manteve o seu site protegido por um mês. Incrível! Se tiver um momento, considere deixar um comentário no WordPress.org para ajudar na divulgação. Agradecemos imenso! Se tiver alguma dúvida ou sugestão, deixe-nos uma %smensagem%s."
+
+#: class-multisite.php:159
+msgid "Activate SSL per site or install a wildcard certificate to fix this."
+msgstr "Active SSL por site ou instale um certificado wildcard para corrigir isto."
+
+#: class-multisite.php:158
+msgid "This leads to issues when activating SSL networkwide since subdomains will be forced over SSL as well while they don't have a valid certificate."
+msgstr "Isto leva a problemas ao activar SLL em toda a rede, pois os subdomínios também serão forçados pelo SLL, embora não tenham um certificado válido."
+
+#: class-multisite.php:157
+msgid "You run a Multisite installation with subdomains, but your site doesn't have a wildcard certificate."
+msgstr "Você executa uma instalação Multisite com subdomínios, mas o seu site não possui um certificado wildcard."
+
+#: class-admin.php:4262
+msgid "Are you sure?"
+msgstr "Tem a certeza?"
+
+#: class-admin.php:3750
+msgid "More info"
+msgstr "Mais informações"
+
+#: class-admin.php:4295
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: class-admin.php:4280
+msgid "Deactivating the plugin while keeping SSL will do the following:"
+msgstr "Desactivar o plugin enquanto mantém SSL fará o seguinte:"
+
+#: class-admin.php:115
+msgid "Really Simple SSL and Really Simple SSL add-ons do not process any personal identifiable information, so the GDPR does not apply to these plugins or usage of these plugins on your website. You can find our privacy policy <a href=\"%s\" target=\"_blank\">here</a>."
+msgstr "Really Simple SSL e as suas extensões não processam qualquer tipo de informação pessoal, por isso o GDPR não se aplica a estes plugins ou à utilização dos mesmos no seu site. Pode encontrar a nossa política de privacidade <a href=\"%s\" target=\"_blank\">aqui</a>."
+
+#. Author URI of the plugin
+msgid "https://really-simple-plugins.com"
+msgstr "https://really-simple-plugins.com"
+
+#: class-admin.php:518
+msgid "You can also let the automatic scan of the pro version handle this for you, and get premium support, increased security with HSTS and more!"
+msgstr "Também pode deixar a verificação automática da versão pro fazer isto por si, obter o suporte premium, aumentar a segurança com HSTS, e muito mais!"
+
+#: class-multisite.php:337
+msgid "Enable SSL"
+msgstr "Activar SSL"
+
+#: class-multisite.php:429
+msgid "Options saved."
+msgstr "Opções guardadas."
+
+#: class-multisite.php:355
+msgid "networkwide"
+msgstr "em toda a rede"
+
+#: class-multisite.php:356
+msgid "per site"
+msgstr "por site"
+
+#: class-multisite.php:336
+msgid "Select to enable SSL networkwide or per site."
+msgstr "Seleccione para activar o SSL em toda a rede ou por site."
+
+#: class-admin.php:3965 class-admin.php:3995 class-admin.php:4318
+msgid "This option is enabled on the network menu."
+msgstr "Esta opção está activada no menu da rede."
+
+#: class-admin.php:513
+msgid "You may need to login in again."
+msgstr "Pode ter de iniciar sessão outra vez."
+
+#: class-admin.php:3841 class-site-health.php:155
+msgid "Enable 301 .htaccess redirect"
+msgstr "Activar redireccionamento 301 .htaccess"
+
+#: class-admin.php:2984
+msgid "Enable a .htaccess redirect or WordPress redirect in the settings to create a 301 redirect."
+msgstr "Active o redireccionamento .htaccess ou redireccionamento WordPress nas opções para criar um redireccionamento 301."
+
+#: class-admin.php:2961
+msgid "No 301 redirect is set. Enable the WordPress 301 redirect in the settings to get a 301 permanent redirect."
+msgstr "Não está configurado nenhum redireccionamento 301. Active o redireccionamento WordPress 301 nas definições para obter um redireccionamento 301 permanente."
+
+#: class-admin.php:3830
+msgid "In most cases you need to leave this enabled, to prevent mixed content issues on your site."
+msgstr "Na maioria dos casos tem de deixar isto activo para prevenir problemas de conteúdo misto no seu site."
+
+#: class-admin.php:3847
+msgid "If you want to customize the Really Simple SSL .htaccess, you need to prevent Really Simple SSL from rewriting it. Enabling this option will do that."
+msgstr "Se quiser personalizar o .htaccess do Really Simple SSL, tem de evitar que o Really Simple SSL o reescreva. Para isso, active esta opção."
+
+#: class-admin.php:3038
+msgid "HTTP Strict Transport Security was enabled."
+msgstr "HTTP Strict Transport Security foi activado."
+
+#: class-multisite.php:548 class-multisite.php:576
+msgid "You can also let the automatic scan of the pro version handle this for you, and get premium support and increased security with HSTS included."
+msgstr "Poderá também permitir que a verificação automática da versão pro faça isto por si, obter suporte premium e aumentar a segurança com a tecnologia HSTS incluída."
+
+#: class-multisite.php:230 class-admin.php:4351
+msgid "Premium Support"
+msgstr "Suporte Premium"
+
+#: class-multisite.php:550 class-multisite.php:578
+msgid "Check out Really Simple SSL Premium"
+msgstr "Conheça o Really Simple SSL Premium"
+
+#: class-admin.php:752
+msgid "Go ahead, activate SSL!"
+msgstr "Continue, active o SSL!"
+
+#: class-admin.php:2878
+msgid "SSL is enabled on your site."
+msgstr "SSL está activado no seu site."
+
+#: class-multisite.php:130
+msgid "SSL is not enabled yet"
+msgstr "SSL ainda não está activado"
+
+#: class-multisite.php:555
+msgid "Activate SSL networkwide"
+msgstr "Activar SSL em toda a rede"
+
+#: class-cache.php:10 class-help.php:9 class-multisite.php:27
+#: class-front-end.php:18 class-admin.php:49 class-site-health.php:12
+#: class-mixed-content-fixer.php:13 class-certificate.php:14
+msgid "%s is a singleton class and you cannot create a second instance."
+msgstr "%s é uma classe singleton e não pode criar uma segunda instância."
+
+#: class-admin.php:2345
+msgid "System detection encountered issues"
+msgstr "A detecção do sistema encontrou problemas"
+
+#: class-multisite.php:558
+msgid "Activate SSL per site"
+msgstr "Activar SSL por site"
+
+#: class-admin.php:492
+msgid "Almost ready to migrate to SSL!"
+msgstr "Quase pronto para migrar para SSL!"
+
+#: class-admin.php:2310
+msgid "A definition of a siteurl or homeurl was detected in your wp-config.php, but the file is not writable."
+msgstr "Foi detectada uma definição de um siteurl ou homeurl no seu wp-config.php, mas o ficheiro não tem permissão de escrita."
+
+#: class-multisite.php:543
+msgid "Some things can't be done automatically. Before you migrate, please check for: "
+msgstr "Algumas coisas não podem ser feitas automaticamente. Antes de migrar, por favor verifique o seguinte:"
+
+#: class-admin.php:2316
+msgid "Because your site is behind a loadbalancer and is_ssl() returns false, you should add the following line of code to your wp-config.php."
+msgstr "Devido ao seu site estar por trás de um loadbalancer e a função is_ssl() retornar falso, deverá adicionar esta linha de código ao seu wp-config.php."
+
+#: class-multisite.php:561
+msgid "Networkwide activation does not check if a site has an SSL certificate. It just migrates all sites to SSL."
+msgstr "A activação em toda a rede não confirma se um site tem certificado SSL. Apenas migra todos os sites para SSL."
+
+#: class-admin.php:2315
+msgid "Your wp-config.php has to be edited, but is not writable."
+msgstr "O seu ficheiro wp-config.php.tem de ser editado, mas não tem permissão de escrita."
+
+#: class-admin.php:2338
+msgid "Because your server does not pass a variable with which WordPress can detect SSL, WordPress may create redirect loops on SSL."
+msgstr "Devido ao seu servidor não passar uma variável através da qual o WordPress conseguiria detectar SSL, o WordPress poderá criar loops de redireccionamento em SSL."
+
+#: class-multisite.php:546
+msgid "Images, stylesheets or scripts from a domain without an SSL certificate: remove them or move to your own server."
+msgstr "Imagens, folhas de estilo ou scripts de um domínio sem certificado SSL: remova-os ou mova-os para o seu próprio servidor."
+
+#: grid/templates/tips-tricks-footer.php:3 class-multisite.php:441
+#: class-admin.php:2725
+msgid "Documentation"
+msgstr "Documentação"
+
+#. Plugin Name of the plugin
+msgid "Really Simple SSL"
+msgstr "Really Simple SSL"
+
+#. Description of the plugin
+msgid "Lightweight plugin without any setup to make your site SSL proof"
+msgstr "Plugin leve e sem qualquer configuração para o seu site funcionar com SSL"
+
+#: class-admin.php:3848
+msgid "Stop editing the .htaccess file"
+msgstr "Impedir edição do ficheiro .htaccess"
+
+#: grid/templates/settings-footer.php:3
+msgid "Save"
+msgstr "Guardar"
+
+#: class-admin.php:2903
+msgid "An SSL certificate was detected on your site."
+msgstr "Foi detectado um certificado SSL no seu site."
+
+#: class-multisite.php:224 class-multisite.php:335 class-multisite.php:382
+#: class-admin.php:2670 class-admin.php:3451 class-admin.php:3828
+#: class-admin.php:4345
+msgid "Settings"
+msgstr "Definições"
+
+#: class-admin.php:3831
+msgid "Mixed content fixer"
+msgstr "Reparador de conteúdo misto"
+
+#: class-admin.php:2648
+msgid "SSL"
+msgstr "SSL"
+
+#: class-admin.php:2804
+msgid "Major security issue!"
+msgstr "Problema grave de segurança!"
+
+#: class-admin.php:2647
+msgid "SSL settings"
+msgstr "Definições de SSL"
+
+#: class-multisite.php:144
+msgid "You run a Multisite installation with subfolders, which prevents this plugin from fixing your missing server variable in the wp-config.php."
+msgstr "Está a utilizar uma instalação multisite com subpastas, o que impede este plugin de resolver a sua variável do servidor em wp-config.php."
+
+#: class-multisite.php:146
+msgid "Activate networkwide to fix this."
+msgstr "Activar em toda a rede para resolver isto."
+
+#: class-multisite.php:145
+msgid "Because the $_SERVER[\"HTTPS\"] variable is not set, your website may experience redirect loops."
+msgstr "Devido à variável $_SERVER[\"HTTPS\"] não estar configurada, poderão ocorrer loops de redireccionamento no seu site."
+
+#: class-admin.php:2806
+msgid "Check again"
+msgstr "Verificar de novo"

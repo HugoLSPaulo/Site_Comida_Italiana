@@ -1,0 +1,32 @@
+/*  MICROTHEMER STYLES  */
+
+
+/*= Content =================== */
+
+/** Content >> precos **/
+.uagb-rm__price > .has-inline-color {
+	float: none !important;
+}
+
+
+/*= Footer ==================== */
+
+/** Footer >> rodapeRedesLocalTele **/
+#colophon > .ast-builder-grid-row-tablet-3-equal {
+	margin-top: -30px !important;
+}
+
+
+/*( Phone )*/
+@media (max-width: 480px) {
+
+	/*= Content =================== */
+
+	/** Content >> precos **/
+	.uagb-rm__price > .has-inline-color {
+	
+}
+
+
+}
+
